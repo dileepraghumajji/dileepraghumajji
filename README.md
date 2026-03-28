@@ -55,7 +55,9 @@ education: B.Tech in ECE — JNTU Kakinada
 
 ### `🚀 Currently Building`
 
-**[Zenzo](https://github.com/dileepraghumajji)** — A horizontal membership management SaaS for fitness & wellness clubs.
+#### 🟠 [Zenzo](https://github.com/dileepraghumajji) — Membership Management SaaS
+
+A two-sided horizontal platform for recurring-attendance fitness & wellness clubs — gyms, martial arts dojos, dance studios, yoga centers, tuition academies.
 
 ```
 Stack:    Turborepo · Next.js 14 · TypeScript · Tailwind · Shadcn/UI
@@ -65,7 +67,28 @@ Comms:    Interakt (WhatsApp OTP & Notifications)
 Deploy:   Vercel
 ```
 
-> Build horizontal. Sell vertical. Starting with gyms in India — expanding to martial arts studios, dance schools, tuition centers, and beyond.
+```
+Features: Member Management · Batch/Group Scheduling · Attendance (offline-first)
+          Fee & Payments · Belt/Level Progression · Admin Dashboard
+          WhatsApp Notifications · Reports · Multi-club Support
+```
+
+> *Build horizontal. Sell vertical.* Starting with gyms in India — designed to expand across every club that runs on memberships and batches.
+
+---
+
+#### 🎬 [FRAME](https://github.com/dileepraghumajji) — Cinematic Screenplay Writing Studio
+
+A purpose-built writing environment for screenwriters — rich editor, structured screenplay formatting, and a cinematic-first design language.
+
+```
+Editor:   ProseMirror (custom schema)
+Frontend: React · React Router v6 (nested layouts)
+Styling:  Three-tier CSS token architecture
+Design:   Mobile-responsive · Cinematic UI language
+```
+
+> Not another generic text editor. FRAME is built from the ground up for the way screenwriters actually think and write.
 
 ---
 
